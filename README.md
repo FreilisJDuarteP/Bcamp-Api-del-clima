@@ -7,6 +7,7 @@ API para obtener información sobre el clima actual, calidad del aire y pronóst
 ```bash
 git clone https://github.com/FreilisJDuarteP/Bcamp-Api-del-clima.git
 ```
+### Nota: Salta al paso 3 para probar la configuración automática del proyecto.
 
 ### 2. **Configuración de la base de datos:**
 Si deseas probar la API sin cambios, la base de datos ya está configurada en el contenedor.  
